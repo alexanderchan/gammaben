@@ -1,3 +1,5 @@
+originally from https://perfiliev.com/blog/how-to-calculate-gamma-exposure-and-zero-gamma-level/
+
 # SPX Gamma Profile Analysis
 
 A comprehensive tool for analyzing SPX options gamma exposure using live CBOE data. This project successfully sets up and runs a sophisticated options analysis program using modern Python tooling (`uv`) instead of conda, with enhanced chart interaction and file-saving capabilities.
